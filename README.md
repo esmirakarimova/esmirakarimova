@@ -6,10 +6,9 @@
 ### <div align="center">I'm Esmira, a Front-end developer 👨‍💻 </div>  
   
 
-- 🌱 I’m currently learning React, Ruby, CoffeeScript 
-  
-
+- 🌱 Currently learning React, Ruby, CoffeeScript
 - ⚡ Fun fact: I use tabs over spaces  
+- 🪐 Love cosmos, astrophysicist
   
 
 <br/>  
