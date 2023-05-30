@@ -57,6 +57,7 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=esmirakarimova&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=esmirakarimova&theme=react&line_height=40&hide=css"/> </a>
 
 <br/>  
 
