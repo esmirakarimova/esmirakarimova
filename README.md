@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Esmira, a Front-end developer 👨‍💻 </div>  
+### <div align="center">I'm Esmira, a junior Front-end developer 👨‍💻 </div>  
   
 
 - 🌱 Currently learning React, Ruby, CoffeeScript
